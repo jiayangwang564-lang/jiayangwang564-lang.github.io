@@ -1,10 +1,3 @@
----
-permalink: /
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 ## About
 Hello there! I'm Jiayang. <br>
 I'm a third year undergraduate student at Guizhou University, China(https://www.gzu.edu.cn/) and my major is Water Resources and Hydropower Engineering(https://ca.gzu.edu.cn/). My current research interest focuses on leveraging deep learning methods for hydrological disaster simulation and prediction. <br>
